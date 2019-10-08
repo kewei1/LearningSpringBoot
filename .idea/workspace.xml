@@ -2,23 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b3b66b1a-4e5c-49fe-8bd9-4a3dc754c04a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/springboot_mybatis/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot_mybatis/springboot_mybatis.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot_mybatis/src/main/java/com/itke/springboot/mybatis/Controller/MapperController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot_mybatis/src/main/java/com/itke/springboot/mybatis/MySpringBootApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot_mybatis/src/main/java/com/itke/springboot/mybatis/mapper/UserMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot_mybatis/src/main/java/com/itke/springboot/mybatis/pojo/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot_mybatis/src/main/resources/UserMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot_mybatis/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot_start/src/main/java/com/itke/springboot/Controller/Quick2StartController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot_start/src/main/java/com/itke/springboot/Controller/QuickStartController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot_start/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot_start/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/springboot_start/pom.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -43,7 +27,7 @@
         <entry file="file://$PROJECT_DIR$/springboot_mybatis/src/main/java/com/itke/springboot/mybatis/MySpringBootApplication.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="102">
-              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
             </state>
           </provider>
         </entry>
@@ -52,7 +36,7 @@
         <entry file="file://$PROJECT_DIR$/springboot_mybatis/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="346">
-              <caret line="39" column="21" lean-forward="true" selection-start-line="34" selection-start-column="8" selection-end-line="39" selection-end-column="21" />
+              <caret line="39" column="21" selection-start-line="34" selection-start-column="8" selection-end-line="39" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -75,16 +59,21 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/springboot_mybatis/src/main/java/com/itke/springboot/mybatis/Controller/MapperController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="411">
-              <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+            <state relative-caret-position="132">
+              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/springboot_start2/mvnw">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -124,6 +113,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="PUSH_TAGS">
+      <GitPushTagMode />
+    </option>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -325,7 +317,7 @@
       <updated>1570532425979</updated>
       <workItem from="1570532427768" duration="390000" />
       <workItem from="1570532823389" duration="70000" />
-      <workItem from="1570532897116" duration="11594000" />
+      <workItem from="1570532897116" duration="12076000" />
     </task>
     <task id="LOCAL-00001" summary="SpringBoot_start2 使用idea快速创建">
       <created>1570535806813</created>
@@ -334,11 +326,18 @@
       <option name="project" value="LOCAL" />
       <updated>1570535806813</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="SpringBoot_mybatis">
+      <created>1570545574824</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1570545574824</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12054000" />
+    <option name="totallyTimeSpent" value="12536000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -393,7 +392,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="SpringBoot_start2 使用idea快速创建" />
-    <option name="LAST_COMMIT_MESSAGE" value="SpringBoot_start2 使用idea快速创建" />
+    <MESSAGE value="SpringBoot_mybatis" />
+    <option name="LAST_COMMIT_MESSAGE" value="SpringBoot_mybatis" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/pom.xml">
@@ -597,14 +597,14 @@
     <entry file="file://$PROJECT_DIR$/springboot_mybatis/src/main/java/com/itke/springboot/mybatis/MySpringBootApplication.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/springboot_mybatis/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="346">
-          <caret line="39" column="21" lean-forward="true" selection-start-line="34" selection-start-column="8" selection-end-line="39" selection-end-column="21" />
+          <caret line="39" column="21" selection-start-line="34" selection-start-column="8" selection-end-line="39" selection-end-column="21" />
         </state>
       </provider>
     </entry>
@@ -641,13 +641,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/springboot_mybatis/src/main/java/com/itke/springboot/mybatis/Controller/MapperController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="411">
-          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+        <state relative-caret-position="132">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot_start2/mvnw">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
   <component name="masterDetails">
