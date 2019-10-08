@@ -1,0 +1,33 @@
+server:
+  port: 8080
+
+name: itke
+
+person:
+  name: zhangsan
+  age: 18
+
+
+#或者
+
+person2: {name: itke2,age: 32,addr: jiujiang}
+
+city:
+  -jiujiang
+  -nanchang
+  -hukou
+  -pengze
+#或者
+city2: [beijing,hukou,pengze]
+
+#集合中的元素是对象形式
+student:
+  - name: zhangsan
+    age: 18
+    score: 100
+  - name: lisi
+    age: 28
+    score: 88
+  - name: wangwu
+    age: 38
+    score: 9
