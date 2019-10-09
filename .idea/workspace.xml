@@ -198,8 +198,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="744" />
-    <option name="y" value="87" />
+    <option name="x" value="571" />
+    <option name="y" value="207" />
     <option name="width" value="1182" />
     <option name="height" value="927" />
   </component>
@@ -353,7 +353,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/springboot_redis/src/main/java/com/itke/springboot" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/springboot_springdataJPA/src/main/resources" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Redis软件" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
