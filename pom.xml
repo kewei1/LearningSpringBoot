@@ -11,6 +11,7 @@
     <modules>
         <module>springboot_start</module>
         <module>springboot_mybatis</module>
+        <module>springboot_junit</module>
     </modules>
 
     <parent>

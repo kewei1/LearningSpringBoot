@@ -6,6 +6,7 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="springboot_junit" />
         <module name="springboot_start" />
         <module name="springboot_start2" />
         <module name="springboot_mybatis" />
@@ -14,6 +15,7 @@
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="springboot_junit" options="-parameters" />
       <module name="springboot_learing" options="-parameters" />
       <module name="springboot_mybatis" options="-parameters" />
       <module name="springboot_start" options="-parameters" />
