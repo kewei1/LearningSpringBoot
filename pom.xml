@@ -12,6 +12,7 @@
         <module>springboot_start</module>
         <module>springboot_mybatis</module>
         <module>springboot_junit</module>
+        <module>springboot_springdataJPA</module>
     </modules>
 
     <parent>
